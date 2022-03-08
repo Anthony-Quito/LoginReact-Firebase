@@ -1,7 +1,7 @@
 # Login en React con Firebase
 ![](docs/screenshot.png)
 ![](docs/screenshot2.png)
-![](docs/screenshot2.png)
+![](docs/screenshot3.png)
 ## Estructura
 
 - src, es todo el código para la aplicación Backend y Frontend
